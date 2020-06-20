@@ -12,3 +12,4 @@ def greeting
 end
 
 greeting
+
